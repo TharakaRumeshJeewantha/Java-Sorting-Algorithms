@@ -1,0 +1,1352 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="bounds" type="java.awt.Rectangle" editor="org.netbeans.beaninfo.editors.RectangleEditor">
+      <Rectangle value="[450, 0, 0, 0]"/>
+    </Property>
+    <Property name="undecorated" type="boolean" value="true"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace min="-2" pref="13" max="-2" attributes="0"/>
+                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="-2" pref="13" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="jButton2" max="32767" attributes="0"/>
+                                  <Component id="jButton3" max="32767" attributes="0"/>
+                                  <Component id="jButton4" max="32767" attributes="0"/>
+                                  <Component id="jButton5" max="32767" attributes="0"/>
+                                  <Component id="jButton6" max="32767" attributes="0"/>
+                                  <Component id="jButton7" max="32767" attributes="0"/>
+                                  <Component id="jButton8" max="32767" attributes="0"/>
+                                  <Component id="jButton9" max="32767" attributes="0"/>
+                                  <Component id="jButton10" max="32767" attributes="0"/>
+                                  <Component id="jButton12" max="32767" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="1" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+                                      <Component id="jLabel2" min="-2" pref="72" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="13" max="-2" attributes="0"/>
+                                      <Component id="jButton1" min="-2" pref="69" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jButton11" alignment="0" min="-2" pref="249" max="-2" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="txtas1" pref="45" max="32767" attributes="0"/>
+                                  <Component id="txt2" max="32767" attributes="0"/>
+                                  <Component id="txt1" max="32767" attributes="0"/>
+                                  <Component id="txt3" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="txt4" max="32767" attributes="0"/>
+                                  <Component id="txt5" max="32767" attributes="0"/>
+                                  <Component id="txt6" max="32767" attributes="0"/>
+                                  <Component id="txt7" max="32767" attributes="0"/>
+                                  <Component id="txt8" max="32767" attributes="0"/>
+                                  <Component id="txt9" max="32767" attributes="0"/>
+                                  <Component id="txt101" max="32767" attributes="0"/>
+                                  <Component id="txte1" max="32767" attributes="0"/>
+                                  <Component id="txt121" max="32767" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="txt11" pref="45" max="32767" attributes="0"/>
+                                  <Component id="txt22" max="32767" attributes="0"/>
+                                  <Component id="txt33" max="32767" attributes="0"/>
+                                  <Component id="txt44" max="32767" attributes="0"/>
+                                  <Component id="txt55" max="32767" attributes="0"/>
+                                  <Component id="txt66" max="32767" attributes="0"/>
+                                  <Component id="txt77" max="32767" attributes="0"/>
+                                  <Component id="txt88" max="32767" attributes="0"/>
+                                  <Component id="txt99" max="32767" attributes="0"/>
+                                  <Component id="txt102" max="32767" attributes="0"/>
+                                  <Component id="txte2" max="32767" attributes="0"/>
+                                  <Component id="txt122" max="32767" attributes="0"/>
+                                  <Component id="txtas2" alignment="0" max="32767" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                          <Component id="txt111" pref="45" max="32767" attributes="0"/>
+                                          <Component id="txt222" max="32767" attributes="0"/>
+                                          <Component id="txt333" max="32767" attributes="0"/>
+                                          <Component id="txt444" max="32767" attributes="0"/>
+                                          <Component id="txt555" max="32767" attributes="0"/>
+                                          <Component id="txt666" max="32767" attributes="0"/>
+                                          <Component id="txt777" max="32767" attributes="0"/>
+                                          <Component id="txt888" max="32767" attributes="0"/>
+                                          <Component id="txt999" max="32767" attributes="0"/>
+                                          <Component id="txt103" max="32767" attributes="0"/>
+                                          <Component id="txte3" max="32767" attributes="0"/>
+                                          <Component id="txt123" max="32767" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                          <Component id="txt1111" pref="45" max="32767" attributes="0"/>
+                                          <Component id="txt2222" max="32767" attributes="0"/>
+                                          <Component id="txt3333" max="32767" attributes="0"/>
+                                          <Component id="txt4444" max="32767" attributes="0"/>
+                                          <Component id="txt5555" max="32767" attributes="0"/>
+                                          <Component id="txt6666" max="32767" attributes="0"/>
+                                          <Component id="txt7777" max="32767" attributes="0"/>
+                                          <Component id="txt8888" max="32767" attributes="0"/>
+                                          <Component id="txt9999" max="32767" attributes="0"/>
+                                          <Component id="txt104" max="32767" attributes="0"/>
+                                          <Component id="txte4" max="32767" attributes="0"/>
+                                          <Component id="txt124" max="32767" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                          <Component id="txt11111" pref="45" max="32767" attributes="0"/>
+                                          <Component id="txt22222" max="32767" attributes="0"/>
+                                          <Component id="txt33333" max="32767" attributes="0"/>
+                                          <Component id="txt44444" max="32767" attributes="0"/>
+                                          <Component id="txt55555" max="32767" attributes="0"/>
+                                          <Component id="txt66666" max="32767" attributes="0"/>
+                                          <Component id="txt77777" max="32767" attributes="0"/>
+                                          <Component id="txt88888" max="32767" attributes="0"/>
+                                          <Component id="txt99999" max="32767" attributes="0"/>
+                                          <Component id="txt105" max="32767" attributes="0"/>
+                                          <Component id="txte5" max="32767" attributes="0"/>
+                                          <Component id="txt125" max="32767" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <Component id="txtas3" min="-2" pref="45" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="txtas4" min="-2" pref="45" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="txtas5" min="-2" pref="45" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="lbl1" pref="174" max="32767" attributes="0"/>
+                          <Component id="lbl2" max="32767" attributes="0"/>
+                          <Component id="lbl3" alignment="0" max="32767" attributes="0"/>
+                          <Component id="lbl4" alignment="0" max="32767" attributes="0"/>
+                          <Component id="lbl5" alignment="0" max="32767" attributes="0"/>
+                          <Component id="lbl6" alignment="0" max="32767" attributes="0"/>
+                          <Component id="lbl7" alignment="0" max="32767" attributes="0"/>
+                          <Component id="lbl8" alignment="0" max="32767" attributes="0"/>
+                          <Component id="lbl9" alignment="0" max="32767" attributes="0"/>
+                          <Component id="lbl10" alignment="0" max="32767" attributes="0"/>
+                          <Component id="lbl11" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="jLabel2" min="-2" pref="60" max="-2" attributes="0"/>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel3" min="-2" pref="33" max="-2" attributes="0"/>
+                          <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="9" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txt11111" pref="45" max="32767" attributes="0"/>
+                          <Component id="txt1111" max="32767" attributes="0"/>
+                          <Component id="txt111" max="32767" attributes="0"/>
+                          <Component id="txt11" max="32767" attributes="0"/>
+                          <Component id="txt1" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="1" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Group type="103" groupAlignment="1" attributes="0">
+                                          <Group type="102" attributes="0">
+                                              <Group type="103" groupAlignment="1" attributes="0">
+                                                  <Group type="102" attributes="0">
+                                                      <Group type="103" groupAlignment="1" attributes="0">
+                                                          <Group type="102" attributes="0">
+                                                              <Group type="103" groupAlignment="1" attributes="0">
+                                                                  <Group type="102" attributes="0">
+                                                                      <Group type="103" groupAlignment="1" attributes="0">
+                                                                          <Group type="102" attributes="0">
+                                                                              <Group type="103" groupAlignment="1" attributes="0">
+                                                                                  <Group type="102" attributes="0">
+                                                                                      <Group type="103" groupAlignment="1" attributes="0">
+                                                                                          <Group type="102" attributes="0">
+                                                                                              <Group type="103" groupAlignment="1" attributes="0">
+                                                                                                  <Group type="102" attributes="0">
+                                                                                                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                                                                                          <Component id="txt22222" max="32767" attributes="0"/>
+                                                                                                          <Group type="103" groupAlignment="3" attributes="0">
+                                                                                                              <Component id="txt2" alignment="3" min="-2" pref="45" max="-2" attributes="0"/>
+                                                                                                              <Component id="txt22" alignment="3" min="-2" pref="45" max="-2" attributes="0"/>
+                                                                                                              <Component id="txt222" alignment="3" min="-2" pref="45" max="-2" attributes="0"/>
+                                                                                                          </Group>
+                                                                                                          <Component id="txt2222" max="32767" attributes="0"/>
+                                                                                                          <Component id="lbl1" alignment="1" min="-2" max="-2" attributes="0"/>
+                                                                                                      </Group>
+                                                                                                      <EmptySpace max="-2" attributes="0"/>
+                                                                                                      <Group type="103" groupAlignment="1" attributes="0">
+                                                                                                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                                                                                              <Component id="txt33333" pref="45" max="32767" attributes="0"/>
+                                                                                                              <Component id="txt3333" max="32767" attributes="0"/>
+                                                                                                              <Component id="txt333" max="32767" attributes="0"/>
+                                                                                                              <Component id="txt3" max="32767" attributes="0"/>
+                                                                                                              <Component id="txt33" max="32767" attributes="0"/>
+                                                                                                          </Group>
+                                                                                                          <Component id="lbl2" min="-2" max="-2" attributes="0"/>
+                                                                                                      </Group>
+                                                                                                  </Group>
+                                                                                                  <Group type="102" attributes="0">
+                                                                                                      <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                                                                                                      <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                                                                                                      <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+                                                                                                  </Group>
+                                                                                              </Group>
+                                                                                              <EmptySpace max="-2" attributes="0"/>
+                                                                                              <Group type="103" groupAlignment="1" attributes="0">
+                                                                                                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                                                                                      <Component id="txt44444" pref="45" max="32767" attributes="0"/>
+                                                                                                      <Component id="txt4444" max="32767" attributes="0"/>
+                                                                                                      <Component id="txt44" max="32767" attributes="0"/>
+                                                                                                      <Component id="txt4" max="32767" attributes="0"/>
+                                                                                                      <Component id="txt444" alignment="1" max="32767" attributes="0"/>
+                                                                                                  </Group>
+                                                                                                  <Component id="lbl3" min="-2" max="-2" attributes="0"/>
+                                                                                              </Group>
+                                                                                          </Group>
+                                                                                          <Component id="jButton3" min="-2" max="-2" attributes="0"/>
+                                                                                      </Group>
+                                                                                      <EmptySpace max="-2" attributes="0"/>
+                                                                                      <Group type="103" groupAlignment="1" attributes="0">
+                                                                                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                                                                              <Component id="txt55555" pref="45" max="32767" attributes="0"/>
+                                                                                              <Component id="txt5555" max="32767" attributes="0"/>
+                                                                                              <Component id="txt555" max="32767" attributes="0"/>
+                                                                                              <Component id="txt55" max="32767" attributes="0"/>
+                                                                                              <Component id="txt5" max="32767" attributes="0"/>
+                                                                                          </Group>
+                                                                                          <Component id="lbl4" min="-2" max="-2" attributes="0"/>
+                                                                                      </Group>
+                                                                                  </Group>
+                                                                                  <Component id="jButton4" min="-2" max="-2" attributes="0"/>
+                                                                              </Group>
+                                                                              <EmptySpace max="-2" attributes="0"/>
+                                                                              <Group type="103" groupAlignment="1" attributes="0">
+                                                                                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                                                                      <Component id="txt66666" pref="45" max="32767" attributes="0"/>
+                                                                                      <Component id="txt6666" max="32767" attributes="0"/>
+                                                                                      <Component id="txt666" max="32767" attributes="0"/>
+                                                                                      <Component id="txt66" max="32767" attributes="0"/>
+                                                                                      <Component id="txt6" max="32767" attributes="0"/>
+                                                                                  </Group>
+                                                                                  <Component id="lbl5" min="-2" max="-2" attributes="0"/>
+                                                                              </Group>
+                                                                          </Group>
+                                                                          <Component id="jButton5" min="-2" max="-2" attributes="0"/>
+                                                                      </Group>
+                                                                      <EmptySpace max="-2" attributes="0"/>
+                                                                      <Group type="103" groupAlignment="1" attributes="0">
+                                                                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                                                              <Component id="txt77777" pref="45" max="32767" attributes="0"/>
+                                                                              <Component id="txt7777" max="32767" attributes="0"/>
+                                                                              <Component id="txt777" max="32767" attributes="0"/>
+                                                                              <Component id="txt77" max="32767" attributes="0"/>
+                                                                              <Component id="txt7" max="32767" attributes="0"/>
+                                                                          </Group>
+                                                                          <Component id="lbl6" min="-2" max="-2" attributes="0"/>
+                                                                      </Group>
+                                                                  </Group>
+                                                                  <Component id="jButton6" min="-2" max="-2" attributes="0"/>
+                                                              </Group>
+                                                              <EmptySpace max="-2" attributes="0"/>
+                                                              <Group type="103" groupAlignment="1" attributes="0">
+                                                                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                                                      <Component id="txt88888" pref="45" max="32767" attributes="0"/>
+                                                                      <Component id="txt8888" max="32767" attributes="0"/>
+                                                                      <Component id="txt888" max="32767" attributes="0"/>
+                                                                      <Component id="txt88" max="32767" attributes="0"/>
+                                                                      <Component id="txt8" max="32767" attributes="0"/>
+                                                                  </Group>
+                                                                  <Component id="lbl7" min="-2" max="-2" attributes="0"/>
+                                                              </Group>
+                                                          </Group>
+                                                          <Component id="jButton7" min="-2" max="-2" attributes="0"/>
+                                                      </Group>
+                                                      <EmptySpace max="-2" attributes="0"/>
+                                                      <Group type="103" groupAlignment="1" attributes="0">
+                                                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                                              <Component id="txt99999" pref="45" max="32767" attributes="0"/>
+                                                              <Component id="txt9999" max="32767" attributes="0"/>
+                                                              <Component id="txt999" max="32767" attributes="0"/>
+                                                              <Component id="txt99" max="32767" attributes="0"/>
+                                                              <Component id="txt9" max="32767" attributes="0"/>
+                                                          </Group>
+                                                          <Component id="lbl8" min="-2" max="-2" attributes="0"/>
+                                                      </Group>
+                                                  </Group>
+                                                  <Component id="jButton8" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="1" attributes="0">
+                                                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                                      <Component id="txt105" pref="45" max="32767" attributes="0"/>
+                                                      <Component id="txt104" max="32767" attributes="0"/>
+                                                      <Component id="txt103" max="32767" attributes="0"/>
+                                                      <Component id="txt102" max="32767" attributes="0"/>
+                                                      <Component id="txt101" max="32767" attributes="0"/>
+                                                  </Group>
+                                                  <Component id="lbl9" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                          </Group>
+                                          <Component id="jButton9" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="1" attributes="0">
+                                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                              <Component id="txte5" pref="45" max="32767" attributes="0"/>
+                                              <Component id="txte4" max="32767" attributes="0"/>
+                                              <Component id="txte3" max="32767" attributes="0"/>
+                                              <Component id="txte2" max="32767" attributes="0"/>
+                                              <Component id="txte1" max="32767" attributes="0"/>
+                                          </Group>
+                                          <Component id="lbl10" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <Component id="jButton10" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="1" attributes="0">
+                                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                      <Component id="txt121" pref="45" max="32767" attributes="0"/>
+                                      <Component id="txt122" max="32767" attributes="0"/>
+                                      <Component id="txt123" max="32767" attributes="0"/>
+                                      <Component id="txt124" max="32767" attributes="0"/>
+                                      <Component id="txt125" max="32767" attributes="0"/>
+                                  </Group>
+                                  <Component id="lbl11" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Component id="jButton12" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="txtas1" alignment="3" min="-2" pref="45" max="-2" attributes="0"/>
+                          <Component id="txtas2" alignment="3" min="-2" pref="45" max="-2" attributes="0"/>
+                          <Component id="txtas3" alignment="3" min="-2" pref="45" max="-2" attributes="0"/>
+                          <Component id="txtas4" alignment="3" min="-2" pref="45" max="-2" attributes="0"/>
+                          <Component id="txtas5" alignment="3" min="-2" pref="45" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jButton11" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="44" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JTextField" name="txt1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="33" red="0" type="rgb"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="Please Enter your number only here"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt2">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt3">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt4">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt5">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt6">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt7">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt8">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt9">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt101">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txte1">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt121">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt11">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="33" red="0" type="rgb"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="Please Enter your number only here"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt22">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt33">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt44">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt55">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt66">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt77">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt88">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt99">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt102">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txte2">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt122">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt111">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="33" red="0" type="rgb"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="Please Enter your number only here"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt222">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt1111">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="33" red="0" type="rgb"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="Please Enter your number only here"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt11111">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="33" red="0" type="rgb"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="Please Enter your number only here"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt2222">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt22222">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt333">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt3333">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt33333">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt444">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt4444">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt44444">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt555">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt5555">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt55555">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt666">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt6666">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt66666">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt777">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt7777">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt77777">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt888">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt8888">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt88888">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt999">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt9999">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt99999">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt103">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt104">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt105">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txte3">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txte4">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txte5">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt123">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt124">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txt125">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="33" green="33" red="0" type="rgb"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Step 1"/>
+        <Property name="toolTipText" type="java.lang.String" value="Step 1 execute"/>
+        <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+          <Color id="Hand Cursor"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton2">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="33" green="33" red="0" type="rgb"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Step 2"/>
+        <Property name="toolTipText" type="java.lang.String" value="Step 2 execute"/>
+        <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+          <Color id="Hand Cursor"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton3">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="33" green="33" red="0" type="rgb"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Step 3"/>
+        <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+          <Color id="Hand Cursor"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton3ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton4">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="33" green="33" red="0" type="rgb"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Step 4"/>
+        <Property name="toolTipText" type="java.lang.String" value="Step 4 execute"/>
+        <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+          <Color id="Hand Cursor"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton4ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton5">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="33" green="33" red="0" type="rgb"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Step 5"/>
+        <Property name="toolTipText" type="java.lang.String" value="Step 5 execute"/>
+        <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+          <Color id="Hand Cursor"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton5ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton6">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="33" green="33" red="0" type="rgb"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Step 6"/>
+        <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+          <Color id="Hand Cursor"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton6ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton7">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="33" green="33" red="0" type="rgb"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Step 7"/>
+        <Property name="toolTipText" type="java.lang.String" value="Step 7 execute"/>
+        <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+          <Color id="Hand Cursor"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton7ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton8">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="33" green="33" red="0" type="rgb"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Step 8"/>
+        <Property name="toolTipText" type="java.lang.String" value="Step 8 execute"/>
+        <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+          <Color id="Hand Cursor"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton8ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton9">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="33" green="33" red="0" type="rgb"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Step 9"/>
+        <Property name="toolTipText" type="java.lang.String" value="Step 9 execute"/>
+        <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+          <Color id="Hand Cursor"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton9ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton10">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="33" green="33" red="0" type="rgb"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Step 10"/>
+        <Property name="toolTipText" type="java.lang.String" value="Step 10 execute"/>
+        <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+          <Color id="Hand Cursor"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton10ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtas1">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="66" type="rgb"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtas2">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="66" type="rgb"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtas3">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="66" type="rgb"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtas4">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="66" type="rgb"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtas5">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="66" type="rgb"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value="You cannot edit this"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton11">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="66" type="rgb"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Answer using Selection Sort"/>
+        <Property name="toolTipText" type="java.lang.String" value="Please Enter your nukmber here"/>
+        <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+          <Color id="Hand Cursor"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton11ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton12">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="33" green="33" red="0" type="rgb"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Step 11"/>
+        <Property name="toolTipText" type="java.lang.String" value="Step 11 execute"/>
+        <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+          <Color id="Hand Cursor"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton12ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Lucida Calligraphy" size="18" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="33" green="33" red="0" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="~ Selection Sort ~"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/daa_sorting/nclear.png"/>
+        </Property>
+        <Property name="toolTipText" type="java.lang.String" value="Clear"/>
+        <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+          <Color id="Hand Cursor"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel2MouseClicked"/>
+        <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="jLabel2KeyPressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/daa_sorting/nclose.png"/>
+        </Property>
+        <Property name="toolTipText" type="java.lang.String" value="Close"/>
+        <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+          <Color id="Hand Cursor"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel3MouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbl1">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbl2">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbl3">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbl4">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbl5">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbl6">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbl7">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbl8">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbl9">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbl10">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbl11">
+    </Component>
+  </SubComponents>
+</Form>
